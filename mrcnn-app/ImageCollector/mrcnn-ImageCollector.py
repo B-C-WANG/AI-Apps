@@ -120,7 +120,7 @@ class MaskRCNN():
 
 def tst():
     # set MaskRCNN root: https://github.com/matterport/Mask_RCNN
-    temp = MaskRCNN("C:\\Users\Administrator\OneDrive - shanghaitech.edu.cn\桌面\Mask_RCNN")
+    temp = MaskRCNN("G:\wbc\GitHub\Mask_RCNN")
     # images
     temp.devide_images(["C:\\Users\Administrator\OneDrive - shanghaitech.edu.cn\图片\\"+ i for i in
                         [

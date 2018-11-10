@@ -5,11 +5,11 @@ Small apps made from existing AI tools
 - 用openpose衡量肢体运动幅度，可以开发成为运动能量消耗计量器
 - use: install openpose binary, and then run testBodyMotion.py
 - use openpose to measure the move of body, can transfer into energy consume. But not stable now
-- demo  
+- [demo](https://github.com/B-C-WANG/AI-Apps/blob/master/openpose-app/MotionMeasure/demo.gif)  
 ![](https://i.imgur.com/EmZeecN.gif)
 ## mrcnn-app/Video_mrcnn
 apply mrcnn on videos  
-results:
+[demo](https://github.com/B-C-WANG/AI-Apps/blob/master/mrcnn-app/Video_mrcnn/output.gif):
 ![](https://i.imgur.com/Ayr2fxK.gif)
 ## mrcnn-app/ImageCollector
 collect image of differe labels  
